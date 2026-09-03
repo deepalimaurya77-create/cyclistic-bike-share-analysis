@@ -73,3 +73,62 @@ cyclistic-bike-share-analysis/
 ├── 03-documentation/
 └── 04-results/
 └── Key-Findings.md
+
+---
+
+## 📊 Data Summary
+
+| Metric | Value |
+|---|---|
+| Total Rides | 6,037,904 |
+| Member Rides | 3,886,872 (64.3%) |
+| Casual Rides | 2,151,032 (35.7%) |
+| Active Days | 365 (members), 250 (casual) |
+| Avg Member Duration | 12.39 min |
+| Avg Casual Duration | 21.24 min |
+| Data Quality | ✓ Verified |
+
+---
+
+## 🛠️ Tools Used
+- **Database:** PostgreSQL
+- **SQL Editor:** pgAdmin
+- **Analysis Period:** September 2026
+- **Data Source:** Cyclistic (fictional company)
+
+---
+
+## 👤 Analyst
+**Dipali Singh Kushwaha**
+
+---
+
+## 📝 Process Followed
+1. ✅ Imported 12 monthly CSV files
+2. ✅ Merged data using UNION ALL
+3. ✅ Cleaned data (removed duplicates, blanks, invalid records)
+4. ✅ Performed 5 major analyses
+5. ✅ Created 4 summary tables
+6. ✅ Generated 3 recommendations
+
+---
+
+## 🔍 How to Use This Repository
+
+1. **Review README** (you're reading it!)
+2. **Check SQL files** in `02-sql/` folder
+3. **Read documentation** in `03-documentation/`
+4. **View findings** in `04-results/`
+5. **Implement recommendations**
+
+---
+
+## 📌 Next Steps
+- Present findings to marketing team
+- Get approval for 3 recommendations
+- Implement conversion campaigns
+- Track KPIs and optimize
+
+---
+
+**Last Updated:** September 2026
