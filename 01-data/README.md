@@ -5,7 +5,7 @@
 Data Period: August 2025 - July 2026
 
 ## Files Included
-https://drive.google.com/drive/folders/1NX6TTY11UjdlMfyU6QadQkru_bTD306d?usp=drive_link
+[Open the 12 raw CSV files in Google Drive](https://drive.google.com/drive/folders/1NX6TTY11UjdlMfyU6QadQkru_bTD306d?usp=drive_link)
 ## Data Format
 - Format: CSV (Comma-Separated Values)
 - Columns: 13 (ride_id, rideable_type, started_at, etc.)
