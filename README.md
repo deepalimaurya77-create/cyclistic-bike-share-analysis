@@ -72,3 +72,4 @@ cyclistic-bike-share-analysis/
 │   └── 06-summary-tables.sql
 ├── 03-documentation/
 └── 04-results/
+└── Key-Findings.md
