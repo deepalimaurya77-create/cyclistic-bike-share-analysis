@@ -1,6 +1,9 @@
 # Cyclistic Bike-Share Analysis
 
 ## 📊 Project Overview
+## 📈 Interactive Dashboard
+
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/dipali.maurya/viz/CyclisticBike-ShareAnalysis_17884459194620/CyclisticBike-ShareAnalysisMembervsCasualRiderBehaviourAug2025Jul2026)
 Analysis of Cyclistic bike-share usage patterns comparing annual members vs casual riders.
 
 **Goal:** Understand behavioral differences to convert casual riders into annual members.
