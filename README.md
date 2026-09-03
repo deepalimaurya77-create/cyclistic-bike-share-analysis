@@ -120,7 +120,10 @@ cyclistic-bike-share-analysis/
 3. **Read documentation** in `03-documentation/`
 4. **View findings** in `04-results/`
 5. **Implement recommendations**
-
+##NEXT STEP
+- Build a Tableau dashboard using the SQL summary tables
+- Share the analysis and recommendations as a portfolio case study
+- Explore station-level and time-of-day rider behaviour in a future analysis
 ---
 
 **Last Updated:** September 2026
